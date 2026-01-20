@@ -1,124 +1,107 @@
-# Priyansh Khandelwal  
-**Data Analyst / Analytics Engineer**
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=Priyansh%20Khandelwal&fontSize=42&fontAlignY=35&desc=Data%20Analyst%20%7C%20Analytics%20Engineer&descAlignY=60" />
+</p>
 
-📍 Sydney, Australia  
-🔗 LinkedIn: https://www.linkedin.com/in/piyanshkhandelwal  
-
----
-
-## 👋 Overview
-I’m a Master’s student in Computer Science (Data Science & AI) at the University of Sydney with practical experience across data analysis, dashboards, automation, and AI-powered analytics tools.
-
-I enjoy working at the intersection of **data engineering, analytics, and decision-making**, where clean pipelines and clear insights directly impact real users.
-
----
-
-## 🧩 How I Work
-- I start with **clarity**: understanding the business or analytical question before touching the data  
-- I prefer **simple, explainable solutions** over over-engineering  
-- I validate assumptions early using EDA and quick visual checks  
-- I work well with non-technical stakeholders and enjoy translating data into clear narratives  
-- I value clean code, reproducibility, and documentation  
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyanshkhandelwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Sydney%2C%20Australia-green" />
+  <img src="https://img.shields.io/badge/Open%20to-Data%20Roles-orange" />
+</p>
 
 ---
 
-## 🛠️ Skills & Tooling
+## 👋 Hi, I’m Priyansh
 
-### Programming & Databases
-Python, SQL, R, JavaScript, MySQL  
+I’m a **Data Analyst / Analytics Engineer** and a Master’s student in **Computer Science (Data Science & AI)** at the University of Sydney.
 
-### Data Analysis & Visualization
-Pandas, NumPy, Power BI, Excel (Pivot Tables, Power Query), Plotly, Dash, Matplotlib  
+I work on **turning raw data into decisions** — dashboards, pipelines, automation, and AI-powered analytics tools that actually get used.
 
-### Machine Learning & AI (Foundational)
-Regression, Classification, Feature Engineering, Predictive Modelling  
-LLMs, NLP, LangChain, Statistical Analysis  
-
-### Developer Tools
-Git, GitHub, Jupyter Notebook, Streamlit, VS Code  
+Currently open to **data analytics and data engineering roles** across industries.
 
 ---
 
-## 🚀 Projects
+## 🧠 How I Work
+- Start with the **business question**, not the tool  
+- Use EDA to validate assumptions early  
+- Prefer **clear, explainable insights** over over-engineered solutions  
+- Strong believer in reproducibility, clean data models, and readable dashboards  
+
+---
+
+## 🚀 What I’ve Been Working On
+
+- 🤖 Building an **AI-powered data analyst chatbot** for CSV & Excel files  
+- ⚡ Developing **real-time analytics dashboards** using live APIs  
+- 📊 Improving reporting workflows to reduce manual effort  
+- 🎓 Deepening foundations in analytics engineering & applied ML  
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,js,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow" />
+  <img src="https://img.shields.io/badge/Plotly-Visualization-purple" />
+  <img src="https://img.shields.io/badge/Streamlit-Apps-red" />
+  <img src="https://img.shields.io/badge/LangChain-LLMs-orange" />
+  <img src="https://img.shields.io/badge/Excel-Automation-green" />
+</p>
+
+---
+
+## 📌 Featured Projects
 
 ### 🤖 AI Data Analyst Chatbot
-**Tech:** Python, Streamlit, Pandas, NumPy, SciPy, Plotly, LangChain, Groq LLM  
-
-An AI-powered analytics assistant that enables conversational exploration of CSV and Excel datasets. Designed to reduce the barrier between raw data and insights.
-
-**Key features:**
-- Automated data profiling and quality checks  
-- Natural language querying over structured data  
-- Statistical summaries and interactive visualisations  
-
-🔗 Repo: https://github.com/priyanshkhandelwall/AI-Data-Analyst-Chatbot.git
+Conversational AI tool to analyse CSV and Excel datasets using natural language.  
+**Tech:** Python, Streamlit, Pandas, Plotly, LangChain, LLMs  
+🔗 https://github.com/priyanshkhandelwall/AI-Data-Analyst-Chatbot.git
 
 ---
 
 ### ⚡ Australian NEM Power & Emissions Dashboard
-**Tech:** Python, Dash, Plotly, REST APIs, MQTT, Pandas  
-
-Built a real-time data pipeline and dashboard to analyse electricity generation and emissions across Australia’s National Electricity Market.
-
-**Key features:**
-- Live API ingestion and streaming updates  
-- Emissions and generation breakdowns by region  
-- Interactive dashboard for trend analysis  
-
-🔗 Repo: https://github.com/priyanshkhandelwall/NEM-Real-Time-Power-Emissions-Dashboard.git
+Real-time data pipeline and dashboard analysing electricity generation and emissions.  
+**Tech:** Python, Dash, Plotly, REST APIs, MQTT  
+🔗 https://github.com/priyanshkhandelwall/NEM-Real-Time-Power-Emissions-Dashboard.git
 
 ---
 
 ### 🦠 US COVID-19 Disparities Analysis
-**Tech:** R, tidyverse, R Markdown, EDA, Data Visualisation  
-
-Exploratory analysis of county-level COVID-19 data to identify socio-economic and healthcare factors linked to regional case disparities.
-
-**Focus areas:**
-- Demographics and education  
-- Mobility and healthcare access  
-- Visual storytelling with reproducible reports  
-
-🔗 Repo: https://github.com/priyanshkhandelwall/US-COVID-19-Disparities-Factors-and-Insights-at-the-County-Level.git
+County-level analysis identifying socio-economic and healthcare factors driving case disparities.  
+**Tech:** R, tidyverse, EDA, Data Visualisation  
+🔗 https://github.com/priyanshkhandelwall/US-COVID-19-Disparities-Factors-and-Insights-at-the-County-Level.git
 
 ---
 
-## 💼 Experience Highlights
-
-**Data Analyst Intern – Automatorr (Sydney)**  
-- Cleaned and transformed 1,000+ rows of operational data weekly  
-- Built recurring Power BI dashboards for internal reporting  
-- Reduced manual reporting effort by ~20%  
-
-**Python Developer – Alphonic Network Solutions**  
-- Developed and maintained automation scripts and backend modules  
-- Reduced repetitive manual work by ~30%  
-- Improved execution performance by 15–25%  
-
-**Data Analytics Intern – Accenture (Remote)**  
-- Prepared and analysed datasets with 5,000+ records  
-- Supported dashboard creation and EDA for internal teams  
+## 🏆 Highlights
+- 🥇 Best Project Award – Manipal University Jaipur  
+- 📘 Dean’s List for **2 consecutive years** (BCA)  
+- 📉 Reduced reporting effort by **20–30%** in internships  
 
 ---
 
-## 🏆 Achievements & Certifications
-- Best Project Award – Manipal University Jaipur  
-- Dean’s List (2 years) – Bachelor of Computer Applications  
-- McKinsey Forward Program  
-- Oracle Cloud Infrastructure: Data Science Professional  
-- Deloitte Data Analytics Certification  
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshkhandelwall&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshkhandelwall&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎓 Education
-**Master of Computer Science (Data Science & AI)**  
-University of Sydney | 2025 – Present  
-
-**Bachelor of Computer Applications**  
-Manipal University Jaipur | 2021 – 2024  
+## 📬 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/piyanshkhandelwal  
+- 📧 Email: priyansh3k123@gmail.com  
 
 ---
-
-## 📬 Contact
-I’m open to collaboration, internships, and graduate roles in data analytics and engineering.  
-Preferred contact: **LinkedIn**
+⭐ If you like my work, feel free to star a repo or reach out.
