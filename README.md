@@ -40,20 +40,28 @@ Currently open to **data analytics and data engineering roles** across industrie
 
 ---
 
+
 ## 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,js,git,github" />
-</p>
+**Languages & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow" />
-  <img src="https://img.shields.io/badge/Plotly-Visualization-purple" />
-  <img src="https://img.shields.io/badge/Streamlit-Data%20Apps-red" />
-  <img src="https://img.shields.io/badge/LangChain-LLMs-orange" />
-  <img src="https://img.shields.io/badge/Excel-Automation-green" />
-</p>
+**Analytics & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+**AI & Automation**
+![LangChain](https://img.shields.io/badge/LangChain-LLMs-orange)
+![Excel](https://img.shields.io/badge/Excel-Automation-217346?logo=microsoft-excel&logoColor=white)
+
+**Developer Tools**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
 
 ---
 
