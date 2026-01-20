@@ -43,24 +43,58 @@ Currently open to **data analytics and data engineering roles** across industrie
 
 ## 🛠️ Skills & Tools
 
-**Languages & Data**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+### 💻 Programming & Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+</p>
 
-**Analytics & Visualization**
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+**Programming & Databases:**  
+Python, JavaScript, SQL, MySQL.
 
-**AI & Automation**
-![LangChain](https://img.shields.io/badge/LangChain-LLMs-orange)
-![Excel](https://img.shields.io/badge/Excel-Automation-217346?logo=microsoft-excel&logoColor=white)
+---
 
-**Developer Tools**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
+</p>
+
+**Data Analysis & Visualization:**  
+Pandas, NumPy, Matplotlib, Power BI, Data Cleaning, Exploratory Data Analysis (EDA), Data Transformation, Dashboarding.
+
+---
+
+### 🤖 Machine Learning (Foundational)
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-Generative%20AI-orange"/>
+  <img src="https://img.shields.io/badge/NLP-Text%20Analysis-blue"/>
+</p>
+
+**Machine Learning (Foundational):**  
+Supervised Learning, Regression, Classification, Predictive Modelling, Feature Engineering, scikit-learn (foundational), LLMs, NLP (foundational).
+
+---
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
+</p>
+
+**Tools & Platforms:**  
+Excel (Pivot Tables, Power Query, Lookups), Git, GitHub, Jupyter Notebook, VS Code, HTML, CSS.
+
 
 
 ---
