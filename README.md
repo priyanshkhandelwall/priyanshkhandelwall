@@ -3,7 +3,6 @@
 
 📍 Sydney, Australia  
 🔗 LinkedIn: https://www.linkedin.com/in/piyanshkhandelwal  
-📧 Email: priyansh3k123@gmail.com  
 
 ---
 
