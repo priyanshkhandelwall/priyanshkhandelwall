@@ -129,18 +129,6 @@ County-level analysis identifying socio-economic, healthcare, and mobility facto
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshkhandelwall&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshkhandelwall&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 💼 LinkedIn: https://www.linkedin.com/in/piyanshkhandelwal  
 
