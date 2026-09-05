@@ -32,10 +32,14 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
 
 ## 👔 Recruiter / Employer?
 
-> ### 📄 Looking for a quick overview?
->
-> **[Download my resume](https://raw.githubusercontent.com/priyanshkhandelwall/priyanshkhandelwall/main/Priyansh_Khandelwal.pdf)**
-
+<blockquote>
+  <p><strong>💬 Important</strong></p>
+  <p>
+    <a href="https://github.com/priyanshkhandelwall/priyanshkhandelwall/blob/main/Priyansh_Khandelwal.pdf">
+      Download my resume
+    </a>
+  </p>
+</blockquote>
 ---
 
 ## 💼 Experience & Education
