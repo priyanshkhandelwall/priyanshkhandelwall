@@ -33,7 +33,7 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
 ### Employer?
 
 > [!IMPORTANT]  
-> <a href="https://github.com/priyanshkhandelwall/priyanshkhandelwall/blob/main/Priyansh_Khandelwal.pdf" target="_blank">Download my resume</a>
+> <a href="https://raw.githubusercontent.com/priyanshkhandelwall/priyanshkhandelwall/main/Priyansh_Khandelwal.pdf" target="_blank">Download my resume</a>
 
 ---
 
