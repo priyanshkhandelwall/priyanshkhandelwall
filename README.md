@@ -30,20 +30,10 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
 
 ---
 
-## 👔 Recruiter / Employer?
+### Employer?
 
-<table>
-  <tr>
-    <td width="8" bgcolor="#A371F7"></td>
-    <td>
-      <h2>💬 <font color="#A371F7">Important</font></h2>
-      <br>
-      <a href="https://github.com/priyanshkhandelwall/priyanshkhandelwall/blob/main/Priyansh_Khandelwal.pdf" target="_blank" rel="noopener noreferrer">
-        <font size="5">Download my resume</font>
-      </a>
-    </td>
-  </tr>
-</table>
+> [!IMPORTANT]  
+> <a href="https://github.com/priyanshkhandelwall/priyanshkhandelwall/blob/main/Priyansh_Khandelwal.pdf">Download my resume</a>
 
 ---
 
