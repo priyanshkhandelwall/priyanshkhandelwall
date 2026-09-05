@@ -13,8 +13,8 @@
 <p align="center">
   <a href="https://github.com/priyanshkhandelwall"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/piyanshkhandelwal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- Optional Portfolio badge, e.g.:
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
+  <-- Optional Portfolio badge, e.g.:
+  <a href="https://priyanshkhandelwal.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
   -->
 </p>
 
@@ -122,12 +122,6 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshkhandelwall/priyanshkhandelwall/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyanshkhandelwall/priyanshkhandelwall/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<details>
-  <summary>⚙️ One-time setup: enable the animated snake (your file exists — see debug steps below)</summary>
-
-  Your `.github/workflows/snake.yml` is correct. If the snake still doesn't appear, the workflow hasn't pushed to the `output` branch yet — most often because the repo's Workflow permissions are set to read-only. Fix in **Repo → Settings → Actions → General → Workflow permissions → "Read and write permissions"**, then **Actions → generate animation → Run workflow**. Full debug in the message above.
-</details>
 
 ---
 
