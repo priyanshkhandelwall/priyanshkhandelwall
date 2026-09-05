@@ -1,5 +1,4 @@
-<!-- ⚡ Priyansh Khandelwal — GitHub Profile README
-     Update the URLs marked with <CHANGE-ME> (e.g. your Portfolio link) before publishing. -->
+<!-- ⚡ Priyansh Khandelwal — GitHub Profile README -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=Priyansh%20Khandelwal&fontSize=42&fontAlignY=40&desc=Data%20%E2%80%A2%20Software%20%E2%80%A2%20AI&descAlignY=62&animation=fadeIn" width="100%" />
@@ -14,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/priyanshkhandelwall"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/piyanshkhandelwal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <!-- <CHANGE-ME> add your Portfolio badge here, e.g.:
+  <!-- Optional Portfolio badge, e.g.:
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
   -->
 </p>
@@ -32,8 +31,6 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
 - 📅 **Available for full-time roles from November 2026**
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f6feb,100:388bfd&height=50&section=header&animation=twinkling" width="100%" />
 
 ## 💼 Experience & Education
 
@@ -113,18 +110,9 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
 
 ## 📊 GitHub Stats
 
-<!-- Note: the two github-readme-stats cards below may occasionally show a rate-limit/error card — that service's free host is unmaintained and pauses intermittently (service-wide, not your README). They usually recover; if one stays broken, just delete those two lines. -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshkhandelwall&theme=github_dark&show_icons=true&hide_border=true" width="48%" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=priyanshkhandelwall&theme=github-dark&hide_border=true" width="48%" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshkhandelwall&theme=github_dark&hide_border=true&layout=compact&langs_count=8" width="36%" alt="Top languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshkhandelwall&theme=github_dark" width="60%" alt="Profile summary" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshkhandelwall&theme=github-dark&hide_border=true" width="96%" alt="Contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshkhandelwall&theme=github_dark" width="48%" alt="Profile summary" />
 </p>
 
 ### 🐍 Contribution Snake
@@ -136,44 +124,9 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
 </picture>
 
 <details>
-  <summary>⚙️ One-time setup: enable the animated snake</summary>
+  <summary>⚙️ One-time setup: enable the animated snake (your file exists — see debug steps below)</summary>
 
-  Create a file `.github/workflows/snake.yml` inside your `priyanshkhandelwall` repo with this content and push it. It regenerates the snake every 12 hours automatically:
-
-  ```yaml
-  name: generate animation
-
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-
-  jobs:
-    generate:
-      permissions:
-        contents: write
-      runs-on: ubuntu-latest
-      timeout-minutes: 5
-
-      steps:
-        - name: generate github-contribution-grid-snake.svg
-          uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: priyanshkhandelwall
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-        - name: push snake to the output branch
-          uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ```
+  Your `.github/workflows/snake.yml` is correct. If the snake still doesn't appear, the workflow hasn't pushed to the `output` branch yet — most often because the repo's Workflow permissions are set to read-only. Fix in **Repo → Settings → Actions → General → Workflow permissions → "Read and write permissions"**, then **Actions → generate animation → Run workflow**. Full debug in the message above.
 </details>
 
 ---
@@ -199,12 +152,12 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyanshkhandelwal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/priyanshkhandelwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/priyanshkhandelwall"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=priyanshkhandelwall&icon=0&color=1" alt="Visitor counter" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshkhandelwall&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views counter" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,50:1f6feb,100:0d1117&height=140&section=footer" width="100%" />
