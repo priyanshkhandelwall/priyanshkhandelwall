@@ -32,9 +32,10 @@ Final-year **Master of Computer Science (Data Science & AI)** student at **The U
 
 ### Employer?
 
-> [!IMPORTANT]  
-> [![View Resume](https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/priyanshkhandelwall/priyanshkhandelwall/main/Priyansh_Khandelwal.pdf)
-> 
+> [!IMPORTANT]
+> <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/priyanshkhandelwall/priyanshkhandelwall/main/Priyansh_Khandelwal.pdf" target="_blank" rel="noopener noreferrer">
+>   <img src="https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume" />
+> </a>
 ---
 
 ## 💼 Experience & Education
